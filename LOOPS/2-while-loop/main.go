@@ -11,7 +11,6 @@ func main() {
 	for n < 5 {
 		n *= 2
 	}
-
 	// 8 (1*2*2*2)
 	fmt.Println(n)
 }
