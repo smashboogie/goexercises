@@ -12,10 +12,10 @@ func main() {
 
 	switch today.Day() {
 	case 5:
-		fmt.Println("Today is the 5th")
+		fmt.Println("today is the 5th")
 	case 10:
-		fmt.Println("Today is the 10th")
+		fmt.Println("today is the 10th")
 	default:
-		fmt.Println("Default day")
+		fmt.Println("today is default")
 	}
 }
